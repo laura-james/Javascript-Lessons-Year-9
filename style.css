@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:magenta;
+  text-align:center;
+}
+div{
+  border:1px solid white;
+}
+#msg{
+  color:white;
+  font-size:25pt;
+}
+#msg2{
+  color:cyan;
+  font-size:35pt;
+}
